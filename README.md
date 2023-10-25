@@ -1,4 +1,4 @@
-# OptiCAD
+# OpticalSetupCAD
 Design your optical setup with python and the actual optical elements.
 
 This library utilizes [CadQuery](https://cadquery.readthedocs.io/en/latest/intro.html). For visualization I use [CQ-Editor](https://github.com/CadQuery/CQ-editor) and [FreeCAD](https://www.freecad.org/).
