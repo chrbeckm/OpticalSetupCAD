@@ -18,4 +18,4 @@ Open `combinations.py` in the editor of your choice and add your combined file t
 - `markers` places circles in the _x_-_z_-plane at 25mm distance, symbolising the holes in the table
 - `table` does the same as `markers` but builds a plane and drills the holes
 - `line` places mirror objects at the points in a given list, so you don't need to set each one per hand
-- `beam` 
+- `beam` places a beam, with given radius and color. Can be circular and rectangular. Returns length of the path.

@@ -1,0 +1,2 @@
+Optic	Name	x/hole	z/hole	x/mm	z/mm
+Cryo Large	cryostat_large	-3.00	2.00	-75.00	50.00	40.000
